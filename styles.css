@@ -6,12 +6,18 @@
 }
 .header {
     padding: 10px 16px;
-    height:150px;
+    height:100px;
     line-height: 60px;
     background: #023059;
     color: #f1f1f1;
-    font-size:35px;
+    font-size:20px;
     text-align: center;
+}
+h2 {
+    font-size: .8em;
+}
+p{
+    font-size: .8em;
 }
   /* Page content */
 .content {
@@ -33,16 +39,16 @@
     margin-bottom: 2em;
 }
 .edic_logo-screen_02 {
-    height: 300px ;
-    margin-bottom: 4em;
-    margin-top: 8em;
-    
+    height: 200px ;
+    margin-bottom: 2em;
+    margin-top: 4em;
+
 }
 .aviso_container {
     margin: 0 auto;
     width: 80%;
     text-align: justify;
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 2.5vh;
     margin-bottom: 2em;
 }
@@ -61,7 +67,7 @@
     color: #f1f1f1;
     text-align: center;
     padding: 20px;
-    font-size: 1.3em;
+    font-size: .8em;
     transition: .3s;
 }
 .acepto_a_hov:hover {
@@ -69,13 +75,13 @@
 }
 
 .acepto_a-screen_02 {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .acepto_a-return {
     margin-top: 2em;
     width: 30%;
-    font-size: 1.5em;
+    font-size: 1em;
     background-color: #25B8D9;
 }
 .acepto_a-return:hover {
@@ -87,5 +93,5 @@
     width: 70%;
     background-color: white;
     color: #023059;
-    font-size: 3em;
+    font-size: 1em;
 }
